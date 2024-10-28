@@ -1,0 +1,5 @@
+com\demo\book_service\BookServiceApplication.class
+com\demo\book_service\model\Book$BookBuilder.class
+com\demo\book_service\dao\BookRepository.class
+com\demo\book_service\model\Book.class
+com\demo\book_service\controller\BookController.class
